@@ -1,6 +1,6 @@
 # Iterating Over Hashes
 
-## Objectives
+## Objectivesg
 
 1. Iterate over nested, or multidimensional, hashes.
 
